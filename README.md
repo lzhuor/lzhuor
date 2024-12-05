@@ -20,12 +20,6 @@ Here are some of the projects I've been working on:
 - **[📝 Auto Size TextField](https://github.com/lzhuor/auto_size_text_field):**  
   A Flutter widget that automatically resizes text fields to fit perfectly within their bounds.  
 
-- **[📊 React-Vis](https://github.com/uber/react-vis):**  
-  A collection of data visualization components for React. I contributed to enhancing the functionality and fixing bugs in this widely-used library.  
-
-- **[🌍 FormatJS](https://github.com/formatjs/formatjs):**  
-  A modular collection of JavaScript libraries for internationalization. My contributions focused on improving localization features and documentation.  
-
 ### Fun Facts  
 
 - **🎿 Skiing Enthusiast:**  
