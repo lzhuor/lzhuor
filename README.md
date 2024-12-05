@@ -18,7 +18,10 @@ In the meantime, I try to support projects and endowment funds, paying it forwar
 Here are some of the projects I've been working on:  
 
 - **[📝 Auto Size TextField](https://github.com/lzhuor/auto_size_text_field):**  
-  A Flutter widget that automatically resizes text fields to fit perfectly within their bounds.  
+  A Flutter widget that automatically resizes text fields to fit perfectly within their bounds.
+
+- **[📝 Blockchain Wallet v4 Frontend](https://github.com/blockchain/blockchain-wallet-v4-frontend):**  
+  Blockchain.com's open source, non-custodial Wallet
 
 ### Fun Facts  
 
