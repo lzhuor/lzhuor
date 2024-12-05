@@ -15,7 +15,7 @@ In the meantime, I try to support projects and endowment funds, paying it forwar
 
 ### Projects  
 
-Here are some of the projects I've been working on:  
+Here are two projects I've been working on:  
 
 - **[📝 Auto Size TextField](https://github.com/lzhuor/auto_size_text_field):**  
   A Flutter widget that automatically resizes text fields to fit perfectly within their bounds.
