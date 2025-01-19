@@ -36,7 +36,7 @@ Here are two projects I've been working on:
 Feel free to explore my repositories and reach out if you have any questions or just want to connect. Let's make coding a delightful experience together!  
 
 [![GitHub Followers](https://img.shields.io/github/followers/lzhuor?label=Follow&style=social)](https://github.com/lzhuor)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zhuoran-li/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/john-li-zhuoran/)  
 [![Personal Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://zhuoran.li)  
 
 🚀 Life is wonderful. Peace and love ✨
