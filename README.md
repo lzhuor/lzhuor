@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lzhuor  
 
-⌨️ Welcome to my GitHub profile! I'm a passionate software developer who believes that life is meant to be wonderful 🌟 and code should be intuitive 🧩.
+⌨️ Welcome to my GitHub profile! I'm a passionate software developer who believes life is meant to be wonderful 🌟 and code should be intuitive 🧩.
 
 ### About Me  
 
@@ -9,9 +9,9 @@
 - **🎯 Interests:** Learning & exploring new technologies, skiing 🎿, music 🎵, hiking 🚶, photography 📸, and spending quality time with my family and cat 🐾.  
 
 #### 🌟 A Note on Open Source  
-Since 2022, I've been less active in open-source contributions due to a shift in focus at work. However, I genuinely miss the excitement and fulfillment of giving back to the community. Open source has been a big part of my journey, and I hope to return to it when the time is right.  
+Since 2022, I've been less active in open-source contributions due to a shift in focus at work. However, I genuinely miss the excitement and fulfilment of giving back to the community. Open source has been a big part of my journey, and I hope to return to it when the time is right.  
 
-In the meantime, I try to support projects and endowment funds, paying it forward to collectively make the 🌏 a little better every year.  
+In the meantime, I try to support projects and endowment funds, paying it forward to make the 🌏 a little better every year collectively.  
 
 ### Projects  
 
@@ -21,7 +21,7 @@ Here are two projects I've been working on:
   A Flutter widget that automatically resizes text fields to fit perfectly within their bounds.
 
 - **[📝 Blockchain Wallet v4 Frontend](https://github.com/blockchain/blockchain-wallet-v4-frontend):**  
-  Blockchain.com's open source, non-custodial Wallet
+  Blockchain.com's open-source, non-custodial Wallet
 
 ### Fun Facts  
 
