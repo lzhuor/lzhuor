@@ -7,7 +7,7 @@
 - **🌍 Location:** Singapore, but always dreaming of living in the Alps areas in Europe 🏔️  
 - **👨‍💼 Current Role:** Engineering Director at [Endowus.com](https://endowus.com)  
 - **🎯 Interests:** Learning & exploring new technologies, skiing 🎿, music 🎵, hiking 🚶, photography 📸, and spending quality time with my family and cat 🐾.
-- **💻 Career:** Started my job at Goldman Sachs, later joined Endowus as a founding team member, investor and now Engineering Director.
+- **💻 Career:** I started my career at Goldman Sachs, and was privileged to join Endowus as a founding team member, investor and now Engineering Director.
 
 #### 🌟 A Note on Open Source  
 Since 2022, I've been less active in open-source contributions due to a shift in focus at work. However, I genuinely miss the excitement and fulfilment of giving back to the community. Open source has been a big part of my journey, and I hope to return to it when the time is right.  
